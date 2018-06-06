@@ -6,7 +6,7 @@
 title: Peter时光机's Blog
 subtitle: Mr. Curiosity
 description: Work like an intern, Live like a tourist.
-author: Peter Shih
+author: Peter Shi
 language: zh-Hans
 timezone: Asia/Hong_Kong
 
@@ -72,6 +72,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
+## https://github.com/theme-next
 theme: next
 
 # Deployment
